@@ -8,4 +8,4 @@ I am interest in net and sys admin, security (obviously), video making, free sof
 If you want to know more about me, see my [website](https://ramle.be)
 
 ## Contact
-- [mail](github@ramle.be)
+- [mail](mailto:github@ramle.be)
