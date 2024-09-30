@@ -1,8 +1,10 @@
 # Hi, i'm Ada 💅
 
-I am currently a student in computer science and a system administrator.
+I am currently a student in computer science.
 
-I am interested in network, system automation, dev, self-hosting and free software.  I made some stuff for GnousEU.
+I am interested in network, system automation, dev, self-hosting and free software.  I made some stuff for [GnousEU](https://gnous.eu).
+
+I principally write in Go, Python, and a little of Kotlin.
 
 - [Forgejo](https://git.gnous.eu/ada)
 - [Gitlab](https://gitlab.gnous.eu/ada)
